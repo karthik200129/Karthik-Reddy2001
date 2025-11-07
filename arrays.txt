@@ -1,0 +1,29 @@
+* an array is a indexed collection of fixed number of homogeneous data elements
+* the main advantage of array is we can represent huge number of values by using single variable so that radiality code will bw improve
+* the main diss advantage array is fixed in size that is once we create an array there is no chance of increasing or decreasing the size based on our requirements hence to use arrays concept composers we should know the size in advance
+
+Array creation
+
+
+       array name
+      |
+int[] a = new int [3];
+|                   |
+datatype           size
+
+
+* every array in java is object only hence we can create arrays by using new operators
+* so if your using obj means then corresponding class should be must and should to get that class name 
+
+instance variables: variables those are in program up to program excu after that it will be terminate
+
+functions and methods(both are same in java):-
+
+
+this key word : - show the current object.
+
+
+number of ways to do constructor overloading to acive
+changing the data types
+changing the order of parameters
+by passing number of arguments
